@@ -1,0 +1,3 @@
+2 sold 0.5 coins to 0
+2 sold 1 coins to 1
+transactions made: 2
